@@ -28,7 +28,7 @@ const Footer = () => {
             <h4 className="text-xl font-semibold mb-4">Síguenos</h4>
             <div className="flex space-x-4">
               <a href="#" className="hover:text-red-600 transition duration-300">Facebook</a>
-              <a href="#" className="hover:text-red-600 transition duration-300">Instagram</a>
+              <a href="https://www.instagram.com/popupburgers_mx?igsh=MTdrcmRoYTlybDcxdA==" className="hover:text-red-600 transition duration-300">Instagram</a>
               <a href="#" className="hover:text-red-600 transition duration-300">Twitter</a>
             </div>
           </div>
