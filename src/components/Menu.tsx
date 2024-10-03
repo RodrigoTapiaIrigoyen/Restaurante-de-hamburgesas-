@@ -23,7 +23,7 @@ const menuItems = [
     name: 'Big Up',
     description:
       'Hamburgesa 200gr de carne 100% ternera de res rellena de queso monterrey, jitomate,cebollas cocidas y aderezo de la casa incluye papas a la francesa ',
-    price: '$12.99',
+    price: '$230.00',
   },
 ];
 

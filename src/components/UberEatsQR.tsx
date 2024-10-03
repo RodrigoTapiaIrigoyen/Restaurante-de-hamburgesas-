@@ -23,8 +23,7 @@ const UberEatsQR = () => {
               Eats
             </p>
             <p className="text-sm">
-              O visita nuestro perfil en la app de Uber Eats buscando "Burger
-              Delicia"
+              O visita nuestro perfil en la app de Uber Eats buscando "Pop Up Burgers"
             </p>
           </div>
         </div>

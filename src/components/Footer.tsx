@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-2xl font-semibold mb-4">Burger Delicia</h3>
+            <h3 className="text-2xl font-semibold mb-4">Pop Up Burgers</h3>
             <p>Las mejores hamburguesas de la ciudad, hechas con amor y los mejores ingredientes.</p>
           </div>
           <div>
@@ -15,15 +15,12 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="flex items-center">
                 <MapPin className="mr-2" size={18} />
-                Calle Principal 123, Ciudad
+                Calle Enrique Rébsamen 4, C14, Benito Juárez,
               </li>
-              <li className="flex items-center">
-                <Phone className="mr-2" size={18} />
-                +1 234 567 890
-              </li>
+              
               <li className="flex items-center">
                 <Clock className="mr-2" size={18} />
-                Lun-Dom: 11:00 - 22:00
+                Mar-Dom: 5:00 - 10:00 pm 
               </li>
             </ul>
           </div>
@@ -37,7 +34,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-gray-700 text-center">
-          <p>&copy; 2024 Burger Delicia. Todos los derechos reservados.</p>
+          <p>&copy; 2024 Pop Up Burgers. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
